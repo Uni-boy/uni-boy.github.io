@@ -85,7 +85,7 @@ author:
   bio              : "Backend Engineer/ IOS Developer/ Fullstack Engineer"
   location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "liuxz2358@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
