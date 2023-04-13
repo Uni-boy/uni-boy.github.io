@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
 
-  & + .page__meta {
+  &+.page__meta {
     margin-top: -0.5em;
   }
 }
@@ -55,7 +55,9 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -64,19 +66,34 @@
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
+    @if $paragraph-indent ==true {
+      &+p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
     }
   }
 
+  // a {
+  //   text-decoration: underline;
+
+  //   &:hover {
+  //     text-decoration: underline;
+
+  //     img {
+  //       box-shadow: 0 0 10px rgba(#000, 0.25);
+  //     }
+  //   }
+  // }
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: lightgrey;
+    font-weight: bold;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: #f0f0f0;
+      /* Light white color */
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -101,7 +118,7 @@
   }
 
   /* blockquote citations */
-  blockquote + .small {
+  blockquote+.small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
@@ -300,6 +317,7 @@
   transition: $global-transition;
 
   &.disabled {
+
     input,
     button,
     textarea,
