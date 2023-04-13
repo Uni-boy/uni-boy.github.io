@@ -10,6 +10,7 @@ author_profile: true
 {% for project in site.projects %}
   <div class="project">
     <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+    <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}" />
     <p>{{ project.description }}</p>
     <p><a href="{{ project.github_url }}" target="_blank">View on GitHub</a></p>
   </div>
