@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-![my personal Logo](/images/myLogo.png){: .align-right width="300px"}
+![my personal Logo](/images/myLogo.png){: .align-right width="200px"}
 
 🧑‍🎓 I am a final year graduate student at NEU.
 
 🙋 Come from Dalian, a vibrant coastal city situated in Liaoning Province of China.
 
-🧑‍💻 Making efforts to become a full stack developer.
+🧑‍💻 Making efforts to become a full stack developer.  
 
 Study Experience
 ======
