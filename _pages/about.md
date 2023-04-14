@@ -27,7 +27,10 @@ Study Experience
 
 **Degree**: Bachelor  
 **Major**: Information and Computing Science  
-
+**Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Probability and Statistics  
+**Extracurricular Activities**:  
+1. QUQU Guitar Club (Vice President)
+2. JYC Dance Group (Locking Team Leader)
 
 
 
