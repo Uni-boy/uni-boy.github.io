@@ -21,12 +21,12 @@ Study Experience
 
 ------
 
-**Jilin University**
-<span style="color: grey;"><em>2017-2021</span>
+**Jilin University**  
+<span style="color: grey;"><em>2017-2021
 
 ![JLU Logo](/images/JLU.jpeg){: .align-right width="100px"}
-**Degree**: Bachelor's
-**Major**: Information and Computing Science
+**Degree**: Bachelor  
+**Major**: Information and Computing Science  
 
 
 
