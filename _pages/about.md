@@ -25,9 +25,9 @@ Study Experience
 **Northeastern University**
 <span style="color: grey;"><em>2021-2023
 
-**Degree**: Master
-**Major**: Information Systems
-**Relevant Courses**: Smartphones-Based Web Development (IOS), Web Development Tools & Methods, Web Design/ User Experience Engineer, Big-Data System Engineer Using Scala, Data Management and Database Design, Cryptocurrency/Smart Contract
+**Degree**: Master  
+**Major**: Information Systems  
+**Relevant Courses**: Smartphones-Based Web Development (IOS), Web Development Tools & Methods, Web Design/ User Experience Engineer, Big-Data System Engineer Using Scala, Data Management and Database Design, Cryptocurrency/Smart Contract  
 **Extracurricular Activities**:
  * IMIX Dance Group (Team Member)
 
