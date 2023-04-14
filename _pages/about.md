@@ -10,7 +10,7 @@ redirect_from:
 
 ![my personal Logo](/images/myLogo.png){: .align-right width="300px"}
 
-🧑‍🎓 I am currently pursuing a Master's degree in Information Systems at Northeastern University.
+🧑‍🎓 I am a final year graduate student at NEU.
 
 🙋 Come from Dalian, a vibrant coastal city situated in Liaoning Province of China.
 
