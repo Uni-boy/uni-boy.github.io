@@ -28,8 +28,6 @@ Study Experience
 **Degree**: Master  
 **Major**: Information Systems  
 **Relevant Courses**: Smartphones-Based Web Development (IOS), Web Development Tools & Methods, Web Design/ User Experience Engineer, Big-Data System Engineer Using Scala, Data Management and Database Design, Cryptocurrency/Smart Contract  
-<!-- **Extracurricular Activities**: 
- * IMIX Dance Group (Team Member) -->
 
 ![JLU Logo](/images/JLU.jpeg){: .align-right width="100px"}  
 
@@ -39,10 +37,6 @@ Study Experience
 **Degree**: Bachelor  
 **Major**: Information and Computing Science  
 **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Probability and Statistics  
-<!-- **Extracurricular Activities**: 
- * QUQU Guitar Club (Vice President)
- * JYC Dance Group (Locking Team Leader)
- * College Basketball Team(Team Member) -->
 
 
 
