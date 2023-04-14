@@ -22,7 +22,7 @@ Study Experience
 ------
 ![NEU Logo](/images/NEU.png){: .align-right width="100px"}
 
-**Northeastern University**
+**Northeastern University**  
 <span style="color: grey;"><em>2021-2023
 
 **Degree**: Master  
@@ -36,10 +36,13 @@ Study Experience
 **Jilin University**  
 <span style="color: grey;"><em>2017-2021
 
-**Degree**: Bachelor  
-**Major**: Information and Computing Science  
-**Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Probability and Statistics  
-**Extracurricular Activities**:
+### Degree: 
+Bachelor  
+### Major: 
+Information and Computing Science  
+### Relevant Courses: 
+Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Probability and Statistics  
+### Extracurricular Activities:
  * QUQU Guitar Club (Vice President)
  * JYC Dance Group (Locking Team Leader)
  * College Basketball Team(Team Member)
