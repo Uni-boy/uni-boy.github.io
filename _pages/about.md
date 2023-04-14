@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-!(/images/myLogo.png){: .align-right width="300px"}
+![my personal Logo](/images/myLogo.png){: .align-right width="300px"}
 
 🧑‍🎓 I am currently pursuing a Master's degree in Information Systems at Northeastern University.
 
