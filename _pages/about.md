@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![my personal Logo](/images/myLogo.png){: .align-right width="200px"}
+![my personal Logo](/images/myLogo.png){: .align-right width="300px"}
 
 🧑‍🎓 I am a final year graduate student at NEU.
 
@@ -20,11 +20,11 @@ Study Experience
 ======
 
 ------
+![JLU Logo](/images/JLU.jpeg){: .align-right width="100px"}  
 
 **Jilin University**  
 <span style="color: grey;"><em>2017-2021
 
-![JLU Logo](/images/JLU.jpeg){: .align-right width="100px"}
 **Degree**: Bachelor  
 **Major**: Information and Computing Science  
 
