@@ -21,10 +21,15 @@ Study Experience
 
 ------
 
-**[Jilin University](https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6)**
+**Jilin University**
+<span style="color: grey;"><em>2017-2021</span>
 
 ![JLU Logo](/images/JLU.jpeg){: .align-right width="100px"}
-<span style="color: grey;"><em><a href="https://en.wikipedia.org/wiki/Information_and_computer_science">Information and Computing Science</em></span>
+**Degree**: Bachelor's
+**Major**: Information and Computing Science
+
+
+
 
 
 
