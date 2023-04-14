@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 {% for project in site.projects %}
-  <!-- <div class="project"> -->
+  <div class="project">
     <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
     <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}" />
     <p>{{ project.description }}</p>
     <p><a href="{{ project.github_url }}" target="_blank">View on GitHub</a></p>
-  <!-- </div> -->
+  </div>
   {% include archive-single.html %}
 {% endfor %}
