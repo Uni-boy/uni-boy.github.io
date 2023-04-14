@@ -20,6 +20,17 @@ Study Experience
 ======
 
 ------
+![NEU Logo](/images/NEU.png){: .align-right width="100px"}
+
+**Northeastern University**
+<span style="color: grey;"><em>2021-2023
+
+**Degree**: Master
+**Major**: Information Systems
+**Relevant Courses**: Smartphones-Based Web Development (IOS), Web Development Tools & Methods, Web Design/ User Experience Engineer, Big-Data System Engineer Using Scala, Data Management and Database Design, Cryptocurrency/Smart Contract
+**Extracurricular Activities**:
+ * IMIX Dance Group (Team Member)
+
 ![JLU Logo](/images/JLU.jpeg){: .align-right width="100px"}  
 
 **Jilin University**  
@@ -28,9 +39,10 @@ Study Experience
 **Degree**: Bachelor  
 **Major**: Information and Computing Science  
 **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Probability and Statistics  
-**Extracurricular Activities**:  
-1. QUQU Guitar Club (Vice President)
-2. JYC Dance Group (Locking Team Leader)
+**Extracurricular Activities**:
+ * QUQU Guitar Club (Vice President)
+ * JYC Dance Group (Locking Team Leader)
+ * College Basketball Team(Team Member)
 
 
 
