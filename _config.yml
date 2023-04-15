@@ -49,6 +49,12 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -254,6 +260,14 @@ defaults:
       type: projects
     values:
       layout: project
+      author_profile: true
+      share: true
+  # _portfolio
+  - scope:
+      path: ""
+      types: portfolios
+    values:
+      layout: portfolio
       author_profile: true
       share: true
 
