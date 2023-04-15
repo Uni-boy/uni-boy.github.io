@@ -10,13 +10,13 @@
       <div class="portfolio-flex-row">
         {% for portfolio in site.portfolios %}
         <div class="portfolio-flex-item portfolio-item">
-          <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+          <a href="#portfolioModal-{{ portfolio.modal-id }}" class="portfolio-link" data-toggle="modal">
             <div class="caption">
               <div class="caption-content">
                 <i class="fa fa-search-plus fa-3x"></i>
               </div>
             </div>
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+            <img src="img/portfolio/{{ portfolio.img }}" class="img-responsive" alt="{{ portfolio.alt }}">
           </a>
         </div>
         {% endfor %}
