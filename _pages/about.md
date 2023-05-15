@@ -39,7 +39,10 @@ Study Experience
 **Relevant Courses**: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Probability and Statistics  
 
 
-Hobbies
+Language familiarity
 ======
 
 ------
+Java:  `▓▓▓▓▓▓▓░░░` 80%
+Javascript: `▓▓▓▓░░░░░░` 40%
+
