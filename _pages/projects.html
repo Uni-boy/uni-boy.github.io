@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 {% for project in site.projects %}
-<div class="project" style="max-height: 200px;">
+<div class="project">
   <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-  <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}" style="max-height: fit-content;"/>
+  <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}"/>
   <p>{{ project.description }}</p>
   <p><a href="{{ project.github_url }}" target="_blank">View on GitHub</a></p>
 </div>
