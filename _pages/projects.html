@@ -10,7 +10,7 @@ author_profile: true
 {% for project in site.projects %}
 <div class="project">
   <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-  <div>
+  <div style="max-height: 200px;">
     <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}" class="page__hero-image" />
   </div>
   <p>{{ project.description }}</p>
