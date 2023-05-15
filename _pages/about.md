@@ -43,6 +43,7 @@ Language Familiarity
 ======
 
 ------
+
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
