@@ -157,3 +157,8 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+// open pdf
+function openPDF() {
+  window.open('Xinzhuo_Liu_resume_Mobile.pdf', '_blank');
+}
