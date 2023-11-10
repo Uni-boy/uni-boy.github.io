@@ -160,5 +160,20 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 // open pdf
 function openPDF() {
-  window.open('Xinzhuo_Liu_resume_Mobile.pdf', '_blank');
+  window.open('./Xinzhuo_Liu_resume_Mobile.pdf', '_blank');
 }
+
+// portfolio popup
+document.addEventListener('DOMContentLoaded', (event) => {
+  // Open popup
+  document.querySelectorAll('.open-popup').forEach(button => {
+    button.addEventListener('click', () => {
+      document.querySelector('.popup-overlay').style.display = 'flex';
+    });
+  });
+
+  // Close popup
+  document.querySelector('.close-popup').addEventListener('click', () => {
+    document.querySelector('.popup-overlay').style.display = 'none';
+  });
+});
