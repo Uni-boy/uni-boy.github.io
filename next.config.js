@@ -9,10 +9,10 @@ const nextConfig = {
     // ],
     unoptimized: true,
   },
-  experimental: {
-    serverActions: true,
-  },
-  // output: 'export',
+  // experimental: {
+  //   serverActions: true,
+  // },
+  output: 'export',
 };
 
 module.exports = nextConfig;
